@@ -1,1 +1,1 @@
-msi for a game itself, rest is the code. If you want to compile files first unlock them using file properties. Project named "poprawione" isn't important - you can even remove it.
+msi for a game itself, rest is the code. If you want to compile files in Visual Studio first unlock them in a folder using file properties (right click on a file in file explorer, then properties, what you need is at the bottom). Project named "poprawione" isn't important - you can even remove it.
